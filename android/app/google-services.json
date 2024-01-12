@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "924945981474",
+    "firebase_url": "https://chatify-9aa8d-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "chatify-9aa8d",
+    "storage_bucket": "chatify-9aa8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:924945981474:android:3077f039b079d7e9636a7b",
+        "android_client_info": {
+          "package_name": "com.example.chatify_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZAdacsL3R7GD_sBZVW0ID7KIjzX6NklA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
