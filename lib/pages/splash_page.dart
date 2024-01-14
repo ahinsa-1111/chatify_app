@@ -17,7 +17,6 @@ class SplashPage extends StatefulWidget {
 class _SplashPageState extends State<SplashPage> {
   @override
   void initState() {
-    // TODO: implement initState
     super.initState();
   }
 
@@ -27,7 +26,8 @@ class _SplashPageState extends State<SplashPage> {
       title: 'Chatyfy',
       theme: ThemeData(
         backgroundColor: Color.fromARGB(36, 35, 1, 0),
-        scaffoldBackgroundColor: Color.fromARGB(36, 35, 49, 0),
+        scaffoldBackgroundColor:
+            Color.fromARGB(36, 35, 49, 0), //sackground color
       ),
     );
   }
